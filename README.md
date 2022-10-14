@@ -12,10 +12,11 @@ An open-source alternative frontend for YouTube which is efficient by design.
 
 # The Problem
 
-YouTube has an extremely invasive privacy policy which relies on using user data in unethical ways. You give them a lot of data - ranging from ideas, music taste, content, political opinions, and much more than you think.
+Some videos are blocked on the main YouTube website for some school laptops. With using this version of Piped, both the URL and the videos you watch are unblocked, and you keep the privacy you need. 
 
-By using Piped, you can freely watch and listen to content without the fear of prying eyes watching everything you are doing.
+Privacy is important and something to keep in mind when browsing the internet. 
 
+HEADS UP!!! This project is open-source so please keep that in mind. If you want MAX privacy I do reccomend using the Tor Browser if possible. If not, Chrome is acceptable.
 ## Features:
 
 **User Features**
